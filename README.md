@@ -23,13 +23,5 @@ Designed, simulated, and validated a discrete analog Phase-Locked Loop (PLL) imp
 
 ---
 
-## Technical Highlights
-- **Loop filter design:** Pole–zero placement based on desired loop bandwidth and phase margin, balancing lock time and jitter performance.
-- **Stability verification:** Evaluated transient response and phase error to ensure stable locking across the operating frequency range.
-- **PCB implementation:** Applied analog layout best practices including star grounding, local decoupling at all active devices, minimized loop area, and isolation of noisy digital nodes from sensitive analog paths.
-- **Hardware correlation:** Iterative comparison between LTSpice results and bench measurements to refine component values and operating points.
-
----
-
 ## Results
 - **Measured capture/lock range:** 150Hz - 1300Hz 

@@ -1,4 +1,6 @@
 # Phase-Locked-Loop Project
+
+**This Project was part of EE322: Analog and Mixed Signal Circuits Course**
 **Design and implementation on PCB of a phase-locked loop**
 
 ---
